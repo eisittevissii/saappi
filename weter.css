@@ -1,0 +1,38 @@
+h1 {
+  background: #1499ff;
+  margin: -10px;
+  padding: 20px;
+  font-size: 60px;
+}
+
+button {
+  margin: 20px;
+}
+
+.maakuva {
+  margin: -20px;
+  width: 103%;
+  position: relative;
+  bottom: 240px;
+}
+
+.varas {
+  position: relative;
+  left: 1135px;
+  bottom: 460px;
+  width: 10%;
+}
+
+body {
+  height: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+#tulos {
+  display: flex;
+}
+
+#tulos div {
+  margin-left: 120px;
+}
